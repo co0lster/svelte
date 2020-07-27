@@ -10,8 +10,6 @@
 </script>
 
 <main>
-  <h1>Svelte + Node.js API</h1>
-    <img src="rebus.png" alt="rebus">
-  <h2>The date according to Node.js is:</h2>
+  <img src="rebus.png" alt="rebus">
   <p>{date ? date : 'Loading date...'}</p>
 </main>
